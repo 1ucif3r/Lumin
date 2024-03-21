@@ -56,3 +56,24 @@ python3 main.py
 ## Security Note
 
 While using Lumin's tool uses strong encryption algorithms, security also depends on the RSA key strength, private key secrecy, and passphrase strength. Keep your private key secure and use a strong passphrase.
+
+
+## YouTube Demo :
+
+  SOON 
+
+## ScreenShot :
+
+<p align="center">
+  <img src="https://github.com/1ucif3r/Lumin/blob/main/demo.png" alt="lumin Logo"/>
+</p>
+
+### Development By :
+
+Developer / Author: [1ucif3r](https://github.com/1ucif3r)
+
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/0x1ucif3r"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
