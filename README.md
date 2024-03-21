@@ -38,7 +38,7 @@
 
 - **File Name Storage**: SecretPixel stores the original filename of the hidden data within the image. This allows for the file to be extracted with its original name, providing additional convenience and maintaining file identity.
 
-- **Cross-Platform Compatibility**: Written in Python, SecretPixel is cross-platform and can be used on any system with Python installed.
+- **Cross-Platform Compatibility**: Written in Python, Lumin is cross-platform and can be used on any system with Python installed.
 
 
 
