@@ -41,4 +41,14 @@
 - **Cross-Platform Compatibility**: Written in Python, Lumin is cross-platform and can be used on any system with Python installed.
 
 
+## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+
+To use Lumin, clone the repository or download the source code from GitHub. Ensure you have Python 3 installed on your system, along with the required packages:
+
+```
+git clone https://github.com/1ucif3r/Lumin.git
+cd Lumin
+pip3 install -r requirements.txt
+```
+
 
