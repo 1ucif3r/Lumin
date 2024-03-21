@@ -27,3 +27,18 @@
 ###### <p align="center"> Made with ❤️ By [**1ucif3r**](https://github.com/1ucif3r)
 
 ###### <p align="center">LUMIN is a advance collections of steganography tools designed to securely conceal sensitive information within images , videos & Other Files . It stands out in the realm of digital steganography by combining advanced encryption, compression, and a seeded Least Significant Bit (LSB) technique to provide a robust solution for embedding data undetectably.<p align="center">
+
+## Key Features
+
+- **Advanced Encryption**: Lumin's tools uses AES-256 encryption for the data, with a session key that is further encrypted using RSA public key cryptography. This two-tier encryption ensures that only the holder of the corresponding RSA private key can decrypt the hidden information, providing a high level of security.
+
+- **Compression**: Before encryption, the data is compressed using zlib to reduce its size. This not only makes the process more efficient but also helps in minimizing patterns that could be detected by steganalysis tools.
+
+- **Seeded LSB Steganography**: The tool employs a seeded random number generator to determine the pixel positions used for embedding the data. This approach scatters the hidden bits throughout the image, making it more resistant to detection by steganalysis tools like zsteg.
+
+- **File Name Storage**: SecretPixel stores the original filename of the hidden data within the image. This allows for the file to be extracted with its original name, providing additional convenience and maintaining file identity.
+
+- **Cross-Platform Compatibility**: Written in Python, SecretPixel is cross-platform and can be used on any system with Python installed.
+
+
+
