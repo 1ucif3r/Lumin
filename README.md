@@ -36,7 +36,7 @@
 
 - **Seeded LSB Steganography**: The tool employs a seeded random number generator to determine the pixel positions used for embedding the data. This approach scatters the hidden bits throughout the image, making it more resistant to detection by steganalysis tools like zsteg.
 
-- **File Name Storage**: SecretPixel stores the original filename of the hidden data within the image. This allows for the file to be extracted with its original name, providing additional convenience and maintaining file identity.
+- **File Name Storage**: Lumin's tools stores the original filename of the hidden data within the image. This allows for the file to be extracted with its original name, providing additional convenience and maintaining file identity.
 
 - **Cross-Platform Compatibility**: Written in Python, Lumin is cross-platform and can be used on any system with Python installed.
 
