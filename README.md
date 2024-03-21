@@ -53,4 +53,6 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
+## Security Note
 
+While using Lumin's tool uses strong encryption algorithms, security also depends on the RSA key strength, private key secrecy, and passphrase strength. Keep your private key secure and use a strong passphrase.
