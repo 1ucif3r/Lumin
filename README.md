@@ -26,4 +26,4 @@
 
 ###### <p align="center"> Made with ❤️ By [**1ucif3r**](https://github.com/1ucif3r)
 
-###### <p align="center">A Advance Steganography Tool Designed to securely conceal sensitive information within images , videos & Files .<p align="center">
+###### <p align="center">LUMIN is a advance collections of steganography tools designed to securely conceal sensitive information within images , videos & Other Files . It stands out in the realm of digital steganography by combining advanced encryption, compression, and a seeded Least Significant Bit (LSB) technique to provide a robust solution for embedding data undetectably.<p align="center">
