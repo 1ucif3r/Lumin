@@ -49,6 +49,8 @@ To use Lumin, clone the repository or download the source code from GitHub. Ensu
 git clone https://github.com/1ucif3r/Lumin.git
 cd Lumin
 pip3 install -r requirements.txt
+
+python3 main.py
 ```
 
 
