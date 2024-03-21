@@ -70,7 +70,7 @@ While using Lumin's tool uses strong encryption algorithms, security also depend
 
 ### Development By :
 
-Developer / Author: [1ucif3r](https://github.com/1ucif3r)
+>> Developer / Author: [1ucif3r](https://github.com/1ucif3r)
 
 
 ### Support Me
