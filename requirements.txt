@@ -4,3 +4,4 @@ numpy
 stegano
 Pillow
 pycryptodome
+pystyle 
